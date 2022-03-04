@@ -1,1 +1,1 @@
-this command is to switch users
+print the current user name

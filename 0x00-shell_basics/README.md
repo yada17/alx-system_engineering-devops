@@ -1,1 +1,1 @@
-this is to navigate within the shell
+to create shortcut

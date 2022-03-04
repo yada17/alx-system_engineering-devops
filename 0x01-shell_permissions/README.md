@@ -1,1 +1,1 @@
-printing groups that the current user belongs to
+to change the file ownership

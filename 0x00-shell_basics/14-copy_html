@@ -1,2 +1,2 @@
 #!/bin/bash
-cp */.html ../
+find . -name "*.html" -type f -copy
